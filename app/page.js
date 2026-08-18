@@ -67,7 +67,7 @@ export default function Home() {
       <header className="topbar">
         <div>
           <div className="eyebrow">EDGE CLOUD / NETWORK OBSERVABILITY</div>
-          <h1>边缘云网络监控</h1>
+          <h1>孙凯的网络监控</h1>
           <p className="subtitle">实时查看边缘节点状态、网络延迟、流量与告警信息。</p>
         </div>
         <div className="liveBadge"><span className="pulse" /> LIVE</div>
