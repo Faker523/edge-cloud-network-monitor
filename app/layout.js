@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: '孙凯的网络监控',
-  description: '一个用于测试 Next.js 与 Vercel 部署能力的轻量网络监控面板',
+  title: 'Cube 网络指标监控',
+  description: '容器与虚拟机的实时网络吞吐、数据包、错误及丢包监控面板',
 };
 
 export default function RootLayout({ children }) {
